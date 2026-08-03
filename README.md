@@ -37,7 +37,7 @@ I bridge clinical domain expertise and modern data analytics -- combining a phar
 ## Projects
 
 - **RxOps AI** -- Live pharmacy operations intelligence dashboard | [rxops-ai.vercel.app](https://rxops-ai.vercel.app)
-- **Bank Marketing Predictive Analytics** -- Classification model analyzing 41,188 records to predict customer subscription likelihood
+- **Bank Marketing Analytics Dashboard: Business Analytics Capstone** -- Analyzed 41,188 bank marketing records across 4 business questions using Tableau. Built interactive dashboards and storyboards to visualize customer subscription behavior. Key findings: middle-aged customers showed highest subscription rates, longer call durations correlated with higher conversions, cellular outperformed telephone contacts. Grade: 175/200 (87.5%). Tools: Tableau, Data Visualization, Business Analytics.
 - **Superstore Sales Analysis** -- Regional sales performance dashboard using Tableau & Power BI
 
 ---
