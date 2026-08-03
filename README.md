@@ -2,7 +2,7 @@
 
 **Healthcare Analytics | MS Business Analytics | Pharmacy Background**
 
-I bridge clinical domain knowledge and data analytics -- combining a pharmacy degree with an MS in Business Analytics to build tools that make healthcare operations smarter.
+I bridge clinical domain expertise and modern data analytics -- combining a pharmacy degree (B.Pharm) with an MS in Business Analytics (GPA: 3.70/4.00 | 92.5%) to build tools that make healthcare operations smarter.
 
 ---
 
@@ -20,16 +20,25 @@ I bridge clinical domain knowledge and data analytics -- combining a pharmacy de
 **Analytics:** SQL | Python | R | Power BI | Tableau | Excel
 
 **Development:** Next.js | React | TypeScript | Tailwind CSS | Node.js
-**AI Tools:** Claude AI | Claude Code | ChatGPT | Prompt Engineering
 
-**Healthcare:** Pharmacy Operations | Clinical Data | Inventory Risk Analysis
+**AI & Automation:** Generative AI | Large Language Models (LLMs) | Prompt Engineering | AI Workflow Automation | Agentic AI Development
+
+**Healthcare:** Pharmacy Operations | Clinical Data | Inventory Risk Analysis | Patient Safety
 
 ---
 
 ## Education
 
-- **MS Business Analytics** -- Trine University, GPA 3.70 (2026)
-- **B.Pharm** -- Osmania University, Hyderabad (2022)
+- **MS Business Analytics** -- Trine University, GPA 3.70/4.00 (92.5%) | May 2026
+- **B.Pharm** -- Osmania University, Hyderabad | August 2022
+
+---
+
+## Projects
+
+- **RxOps AI** -- Live pharmacy operations intelligence dashboard | [rxops-ai.vercel.app](https://rxops-ai.vercel.app)
+- **Bank Marketing Predictive Analytics** -- Classification model analyzing 41,188 records to predict customer subscription likelihood
+- **Superstore Sales Analysis** -- Regional sales performance dashboard using Tableau & Power BI
 
 ---
 
@@ -39,4 +48,4 @@ I bridge clinical domain knowledge and data analytics -- combining a pharmacy de
 - Live Project: https://rxops-ai.vercel.app
 - GitHub: https://github.com/amairmohd730-source
 
-Falls Church, Virginia, USA
+Buffalo Grove, Illinois, USA
